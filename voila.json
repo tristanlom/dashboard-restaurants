@@ -1,3 +1,4 @@
 { 
-  "TagRemovePreprocessor": { "remove_cell_tags": ["hide"] } 
+  "VoilaConfiguration": { "show_tracebacks": true }, 
+  "TagRemovePreprocessor": { "enabled": true, "remove_cell_tags": ["hide"] } 
 } 
